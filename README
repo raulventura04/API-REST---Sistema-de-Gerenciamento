@@ -23,12 +23,7 @@ Java 17 ou superior.
 Maven instalado e configurado.
 MySQL em execução.
 Passos
-Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
 Configure o banco de dados:
 
 Crie um banco de dados no MySQL:
